@@ -1,0 +1,5 @@
+temperature,soil_type,humidity,rainfall,crop
+30,Loamy,70,120,Rice
+25,Sandy,60,80,Millet
+20,Clayey,75,200,Wheat
+35,Silty,65,90,Maize
